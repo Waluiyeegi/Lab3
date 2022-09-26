@@ -29,7 +29,7 @@ public class BuddyInfo {
 
     public static void main(String[] args) {
         BuddyInfo joe = new BuddyInfo("Joe", "123 Maple Street", 12345678);
-        System.out.println("Hi " + joe.getName() + " who lives on " + joe.getAddress() + " and whose phone number is " + joe.getPhoneNumber() + ".");
+        System.out.println("Hiii " + joe.getName() + " who lives on " + joe.getAddress() + " and whose phone number is " + joe.getPhoneNumber() + ".");
 
     }
 }
